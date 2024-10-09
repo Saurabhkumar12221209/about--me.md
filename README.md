@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzLzj8hPBpm3o1QpAmRQWK82kA4aWEi42fYA&s"width="25" height="28">, I'm SAURABH KUMAR</h1>
 <h3 align="center">A passionate Cyber Security Engineer </h3>
 
-![](https://miro.medium.com/v2/resize:fit:1400/1*wJt3v7Gs46uticTUj4y9zg.gif)
+![](https://www.shutterstock.com/video/clip-1011928994-concept-of-digitalization-information-stream-moving-through)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solankiboy939&label=Profile%20views&color=0e75b6&style=flat" alt="solankiboy939" /> </p>
